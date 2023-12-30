@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: myntraBackend
+netty:
+  default:
+    allocator:
+      max-order: 3
